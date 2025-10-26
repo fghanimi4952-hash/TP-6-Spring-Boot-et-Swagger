@@ -1,0 +1,6 @@
+/Users/mac/Desktop/ S3/Architecture_Microservices/demo/src/main/java/com/example/studentmanagement/StudentManagementApplication.java
+/Users/mac/Desktop/ S3/Architecture_Microservices/demo/src/main/java/com/example/studentmanagement/config/SwaggerConfig.java
+/Users/mac/Desktop/ S3/Architecture_Microservices/demo/src/main/java/com/example/studentmanagement/controller/StudentController.java
+/Users/mac/Desktop/ S3/Architecture_Microservices/demo/src/main/java/com/example/studentmanagement/entity/Student.java
+/Users/mac/Desktop/ S3/Architecture_Microservices/demo/src/main/java/com/example/studentmanagement/repository/StudentRepository.java
+/Users/mac/Desktop/ S3/Architecture_Microservices/demo/src/main/java/com/example/studentmanagement/service/StudentService.java
